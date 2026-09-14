@@ -1,5 +1,8 @@
 # The Building Notices You
 
+![The building lighting up with a pixel-art emoji](images/building-emoji-wide.png)
+![Close-up of the emoji design](images/emoji-closeup.png)
+
 Wave at a webcam and MIT's Green Building lights up a giant pixel-art emoji, live.
 
 Built for Sundai Hack 140 — Beyond Tetris: Building-Scale Physical AI for the MIT Green Building.
